@@ -6,7 +6,8 @@
   <a href="#install"><b>Install</b></a> ·
   <a href="#how-to-use"><b>How to use</b></a> ·
   <a href="#how-it-works"><b>How it works</b></a> ·
-  <a href="#before-you-run-it"><b>Before you run it</b></a>
+  <a href="#before-you-run-it"><b>Before you run it</b></a> ·
+  <a href="https://medium.com/@ahmeduxui/how-to-organize-your-figma-drafts-automatically-in-2026-0b0e9419f554"><b>Read the story on Medium</b></a>
 </p>
 
 ## The problem
